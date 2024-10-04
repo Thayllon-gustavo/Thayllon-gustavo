@@ -5,7 +5,7 @@
 
 ![Thayllon GitHub stats](https://github-readme-stats.vercel.app/api?username=thayllon-gustavo&show_icons=true&theme=radical)
 
-### tecnologias que eu uso no meu diahttps://github.com/Thayllon-gustavo/Thayllon-gustavo/blob/main/README.md
+### tecnologias que eu uso no meu dia:
 
 <div
 style="display: inline_block"><br/>
