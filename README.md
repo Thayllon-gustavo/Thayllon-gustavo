@@ -6,7 +6,6 @@
 ![Thayllon GitHub stats](https://github-readme-stats.vercel.app/api?username=thayllon-gustavo&show_icons=true&theme=radical)
 
 ### tecnologias que eu uso no meu dia:
-
 <div
 style="display: inline_block"><br/>
 <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,6 +16,7 @@ style="display: inline_block"><br/>
 </div><br/>
 Apaixonado por tecnologia, educação e por mudar vida das pessoas atravez da programação.
 <br/>
+
 Email de contato: thayllongustavo943@gmail.com
 name: generate animation
 <br/>
