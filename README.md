@@ -45,14 +45,12 @@ HTML5 - CSS3 - Javascrip - REACT- Bootstrap
 </html>
 <h2>PROJETOS FRONT END</h2>
 
-<body>
-<ul>
-<li><h2><a href="https://thayllon-gustavo.github.io/site-de-hamburgueria-/">PROJETO-B7BURGER</a></h2>
-</li>
-<li><h2><a href="https://thayllon-gustavo.github.io/site-html-css-flexbox/">PROJETO-MEDICENTER</a><h2/>
-</li>
-<li><h2><a href="https://thayllon-gustavo.github.io/SUPER-MARIO/">PROJETO-SUPER-MARIO</a><h2/>
-</li>
-</ul>
-</body>
-
+ <h2>Project - Front End</h2>
+   <h3><a target="_blank" href = "https://yygermuts.github.io/FrontEndProject1/">Front End</a></h3> 
+   <h2>Project - B7-BURGER</h2>
+  <h3><a target="_blank" href = "https://yygermuts.github.io/dev-links/](https://thayllon-gustavo.github.io/site-de-hamburgueria-/">B7-BURGER</a></h3>
+   <h2>Project - MEDICENTER</h2>
+   <h3><a target="_blank" href = "https://yygermuts.github.io/super-mario-jump/](https://thayllon-gustavo.github.io/site-html-css-flexbox/"> MEDICENTER</a></h3>
+   <h2>Project - JOGO</h2>
+  <h3><a target="_blank" href = "https://thayllon-gustavo.github.io/SUPER-MARIO/">SUPER-MARIO</a></h3>
+</div>
