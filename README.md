@@ -50,7 +50,7 @@ HTML5 - CSS3 - Javascrip - REACT- Bootstrap
    <h2>Project - B7-BURGER</h2>
   <h3><a target="_blank" href = "https://thayllon-gustavo.github.io/site-de-hamburgueria-/">B7-BURGER</a></h3>
    <h2>Project - MEDICENTER</h2>
-   <h3><a target="_blank" href = "https://yygermuts.github.io/super-mario-jump/](https://thayllon-gustavo.github.io/site-html-css-flexbox/"> MEDICENTER</a></h3>
+   <h3><a target="_blank" href = "https://thayllon-gustavo.github.io/site-html-css-flexbox/"> MEDICENTER</a></h3>
    <h2>Project - JOGO</h2>
   <h3><a target="_blank" href = "https://thayllon-gustavo.github.io/SUPER-MARIO/">SUPER-MARIO</a></h3>
 </div>
